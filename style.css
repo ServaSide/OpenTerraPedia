@@ -1,0 +1,11 @@
+html {
+  background-color: blue;
+  font-family: monospace;
+  font-size: 25px;
+}
+
+.topbar {
+  position: absolute;
+  top: 0%;
+  background-color: blue;
+}
