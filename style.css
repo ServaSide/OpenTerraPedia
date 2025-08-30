@@ -15,7 +15,9 @@ html {
 #bar {
   position: absolute;
   top: 0%;
+  left: 0%;
   height: 32px;
   width: 100%;
+  color: blue;
   background-color: blue;
 }
