@@ -7,15 +7,19 @@ html {
 .topbar {
   position: absolute;
   top: 0%;
-  height: 32px;
+  height: 64px;
   margin: 0%;
   padding: 0%;
 }
 
 .topbar button {
   top: 0%;
-  width: 64px;
-  height: 32px;
+  width: 128px;
+  height: 64px;
+}
+
+#items {
+  left: 128px;
 }
 
 #bar {
