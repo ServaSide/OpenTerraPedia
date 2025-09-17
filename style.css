@@ -12,6 +12,12 @@ html {
   padding: 0%;
 }
 
+.topbar button {
+  top: 0%;
+  width: 64px;
+  height: 32px;
+}
+
 #bar {
   position: absolute;
   top: 0%;
