@@ -18,8 +18,9 @@ html {
   height: 64px;
 }
 
-#items {
-  left: 128px;
+#name {
+  left: 0px;
+  width: 256px;
 }
 
 #bar {
